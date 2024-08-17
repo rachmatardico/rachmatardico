@@ -31,3 +31,4 @@ I am a Fullstack Developer who loves Javascript!
 
 <a href="http://www.github.com/rachmatardico"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rachmatardico&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+![Snake animation](https://raw.githubusercontent.com/rachmatardico/rachmatardico/output/github-contribution-grid-snake-dark.svg)
