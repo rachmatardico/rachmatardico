@@ -31,8 +31,3 @@ I am a Fullstack Developer who loves Javascript!
 
 <a href="http://www.github.com/rachmatardico"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rachmatardico&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-    github_user_name: ${{ github.rachmatardico }}
-
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
